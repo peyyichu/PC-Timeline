@@ -105,6 +105,7 @@ var timeline_data = {  // save as a global variable
         }
 
         {'start': '2012',
+         'end': '2013',
          'title': 'Github used to manage a timeline.',
          'description': 'by pyc',
          'image': 'http://images.allposters.com/images/BRGPOD/156514_b.jpg',
