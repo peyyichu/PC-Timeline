@@ -96,7 +96,6 @@ var timeline_data = {  // save as a global variable
         'link': 'http://www.allposters.com/-sp/Portrait-of-Pablo-Picasso-1881-1973-1912-Posters_i1344154_.htm'
         },
 
-
         {'start': '2091',
         'end': '2115',
         'title': 'Portrait of Horace Brodsky',
@@ -104,5 +103,13 @@ var timeline_data = {  // save as a global variable
         'image': 'http://imagecache2.allposters.com/images/BRGPOD/102770_b.jpg',
         'link': 'http://www.allposters.com/-sp/Portrait-of-Horace-Brodsky-Posters_i1584413_.htm'
         }
+
+        {'start': '2012',
+         'title': 'Github used to manage a timeline.',
+         'description': 'by pyc',
+         'image': 'http://images.allposters.com/images/BRGPOD/156514_b.jpg',
+         'link': 'http://www.allposters.com/-sp/Portrait-of-Pablo-Picasso-1881-1973-1912-Posters_i1344154_.htm'
+        },
+
 ]
 }
