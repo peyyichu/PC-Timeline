@@ -96,13 +96,13 @@ var timeline_data = {  // save as a global variable
         'link': 'http://www.allposters.com/-sp/Portrait-of-Pablo-Picasso-1881-1973-1912-Posters_i1344154_.htm'
         },
 
-        {'start': '2091',
-        'end': '2115',
+        {'start': 'April 2012',
+        'end': 'April 2012',
         'title': 'Portrait of Horace Brodsky',
         'description': 'by Henri Gaudier-Brzeska, French Sculptor, 1891-1915',
         'image': 'http://imagecache2.allposters.com/images/BRGPOD/102770_b.jpg',
         'link': 'http://www.allposters.com/-sp/Portrait-of-Horace-Brodsky-Posters_i1584413_.htm'
-        }
+        },
 
         {'start': '2012',
          'end': '2013',
