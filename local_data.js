@@ -96,18 +96,18 @@ var timeline_data = {  // save as a global variable
         'link': 'http://www.allposters.com/-sp/Portrait-of-Pablo-Picasso-1881-1973-1912-Posters_i1344154_.htm'
         },
 
-        {'start': 'April 2012',
-        'end': 'April 2012',
-        'title': 'Portrait of Horace Brodsky',
-        'description': 'by Henri Gaudier-Brzeska, French Sculptor, 1891-1915',
+        {'start': 'April 19, 2012',
+        'end': 'April 25, 2012',
+        'title': 'Последняя встреча',
+        'description': ,
         'image': 'http://imagecache2.allposters.com/images/BRGPOD/102770_b.jpg',
         'link': 'http://www.allposters.com/-sp/Portrait-of-Horace-Brodsky-Posters_i1584413_.htm'
         },
 
-        {'start': '2012',
-         'end': '2013',
-         'title': 'Github used to manage a timeline.',
-         'description': 'by pyc',
+        {'start': 'May 20. 2012',
+         'end': 'May 20, 2012',
+         'title': 'Решение отпустить',
+         'description': ,
          'image': 'http://images.allposters.com/images/BRGPOD/156514_b.jpg',
          'link': 'http://www.allposters.com/-sp/Portrait-of-Pablo-Picasso-1881-1973-1912-Posters_i1344154_.htm'
         },
